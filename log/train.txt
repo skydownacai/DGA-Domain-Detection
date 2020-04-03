@@ -1,0 +1,139 @@
+[2020-04-03 17:08:32]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:10:39]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:11:50]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:12:43]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:14:31]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:16:24]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:22:24]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:22:39]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:23:39]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:24:18]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:25:18]: train [line:107] INFO  Train Epoch:  0  (learing rate : 0.0001 )| LOSS: 0.449 | F1: 0.265 | ACC: 0.987 | PRECISION: 0.340 | RECALL: 0.229
+[2020-04-03 17:25:43]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:26:56]: train [line:107] INFO  Train Epoch:  0  (learing rate : 0.0001 )| LOSS: 0.462 | F1: 0.249 | ACC: 0.971 | PRECISION: 0.323 | RECALL: 0.221
+[2020-04-03 17:33:25]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:35:14]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:36:58]: train [line:107] INFO  Train Epoch:  0  (learing rate : 0.0001 )| LOSS: 0.468 | F1: 0.268 | ACC: 0.823 | PRECISION: 0.349 | RECALL: 0.401
+[2020-04-03 17:37:19]: train [line:140] INFO  Valid Epoch:  0 | LOSS: 0.344 | F1: 0.634 | ACC: 0.990 | PRECISION: 0.687 | RECALL: 0.618
+[2020-04-03 17:38:42]: train [line:107] INFO  Train Epoch:  1  (learing rate : 0.0001 )| LOSS: 0.336 | F1: 0.732 | ACC: 0.991 | PRECISION: 0.725 | RECALL: 0.750
+[2020-04-03 17:38:57]: train [line:140] INFO  Valid Epoch:  1 | LOSS: 0.330 | F1: 0.790 | ACC: 0.994 | PRECISION: 0.800 | RECALL: 0.806
+[2020-04-03 17:40:21]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:42:00]: train [line:107] INFO  Train Epoch:  0  (learing rate : 0.0000 )| LOSS: 0.700 | F1: 0.045 | ACC: 0.314 | PRECISION: 0.045 | RECALL: 0.767
+[2020-04-03 17:42:21]: train [line:140] INFO  Valid Epoch:  0 | LOSS: 0.634 | F1: 0.001 | ACC: 0.985 | PRECISION: 0.003 | RECALL: 0.000
+[2020-04-03 17:43:46]: train [line:107] INFO  Train Epoch:  1  (learing rate : 0.0000 )| LOSS: 0.458 | F1: 0.000 | ACC: 0.984 | PRECISION: 0.003 | RECALL: 0.000
+[2020-04-03 17:44:00]: train [line:140] INFO  Valid Epoch:  1 | LOSS: 0.384 | F1: 0.000 | ACC: 0.985 | PRECISION: 0.000 | RECALL: 0.000
+[2020-04-03 17:44:38]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 17:46:06]: train [line:107] INFO  Train Epoch:  0  (learing rate : 0.0000 )| LOSS: 0.652 | F1: 0.000 | ACC: 0.984 | PRECISION: 0.000 | RECALL: 0.000
+[2020-04-03 17:46:24]: train [line:140] INFO  Valid Epoch:  0 | LOSS: 0.594 | F1: 0.000 | ACC: 0.985 | PRECISION: 0.000 | RECALL: 0.000
+[2020-04-03 17:48:04]: train [line:107] INFO  Train Epoch:  1  (learing rate : 0.0000 )| LOSS: 0.450 | F1: 0.000 | ACC: 0.984 | PRECISION: 0.000 | RECALL: 0.000
+[2020-04-03 17:48:19]: train [line:140] INFO  Valid Epoch:  1 | LOSS: 0.388 | F1: 0.000 | ACC: 0.985 | PRECISION: 0.000 | RECALL: 0.000
+[2020-04-03 17:50:47]: train [line:107] INFO  Train Epoch:  2  (learing rate : 0.0000 )| LOSS: 0.382 | F1: 0.081 | ACC: 0.985 | PRECISION: 0.209 | RECALL: 0.055
+[2020-04-03 17:51:01]: train [line:140] INFO  Valid Epoch:  2 | LOSS: 0.357 | F1: 0.612 | ACC: 0.991 | PRECISION: 0.882 | RECALL: 0.494
+[2020-04-03 17:52:26]: train [line:107] INFO  Train Epoch:  3  (learing rate : 0.0000 )| LOSS: 0.347 | F1: 0.672 | ACC: 0.991 | PRECISION: 0.780 | RECALL: 0.600
+[2020-04-03 17:52:40]: train [line:140] INFO  Valid Epoch:  3 | LOSS: 0.344 | F1: 0.634 | ACC: 0.990 | PRECISION: 0.675 | RECALL: 0.626
+[2020-04-03 17:54:20]: train [line:107] INFO  Train Epoch:  4  (learing rate : 0.0000 )| LOSS: 0.341 | F1: 0.685 | ACC: 0.990 | PRECISION: 0.687 | RECALL: 0.693
+[2020-04-03 17:54:36]: train [line:140] INFO  Valid Epoch:  4 | LOSS: 0.337 | F1: 0.636 | ACC: 0.987 | PRECISION: 0.558 | RECALL: 0.783
+[2020-04-03 17:56:45]: train [line:107] INFO  Train Epoch:  5  (learing rate : 0.0000 )| LOSS: 0.333 | F1: 0.762 | ACC: 0.992 | PRECISION: 0.737 | RECALL: 0.796
+[2020-04-03 17:57:01]: train [line:140] INFO  Valid Epoch:  5 | LOSS: 0.331 | F1: 0.776 | ACC: 0.994 | PRECISION: 0.777 | RECALL: 0.801
+[2020-04-03 17:59:09]: train [line:107] INFO  Train Epoch:  6  (learing rate : 0.0000 )| LOSS: 0.330 | F1: 0.804 | ACC: 0.994 | PRECISION: 0.802 | RECALL: 0.813
+[2020-04-03 17:59:24]: train [line:140] INFO  Valid Epoch:  6 | LOSS: 0.330 | F1: 0.774 | ACC: 0.993 | PRECISION: 0.764 | RECALL: 0.810
+[2020-04-03 18:01:36]: train [line:107] INFO  Train Epoch:  7  (learing rate : 0.0000 )| LOSS: 0.329 | F1: 0.818 | ACC: 0.994 | PRECISION: 0.816 | RECALL: 0.825
+[2020-04-03 18:01:51]: train [line:140] INFO  Valid Epoch:  7 | LOSS: 0.329 | F1: 0.810 | ACC: 0.995 | PRECISION: 0.839 | RECALL: 0.807
+[2020-04-03 18:04:07]: train [line:107] INFO  Train Epoch:  8  (learing rate : 0.0000 )| LOSS: 0.329 | F1: 0.824 | ACC: 0.994 | PRECISION: 0.830 | RECALL: 0.824
+[2020-04-03 18:04:23]: train [line:140] INFO  Valid Epoch:  8 | LOSS: 0.329 | F1: 0.795 | ACC: 0.994 | PRECISION: 0.794 | RECALL: 0.821
+[2020-04-03 18:06:39]: train [line:107] INFO  Train Epoch:  9  (learing rate : 0.0000 )| LOSS: 0.329 | F1: 0.822 | ACC: 0.994 | PRECISION: 0.824 | RECALL: 0.826
+[2020-04-03 18:06:54]: train [line:140] INFO  Valid Epoch:  9 | LOSS: 0.329 | F1: 0.779 | ACC: 0.993 | PRECISION: 0.752 | RECALL: 0.836
+[2020-04-03 18:09:45]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 18:11:32]: train [line:107] INFO  Train Epoch:  0  (learing rate : 0.0000 )| LOSS: 0.534 | F1: 0.084 | ACC: 0.757 | PRECISION: 0.182 | RECALL: 0.309
+[2020-04-03 18:11:49]: train [line:140] INFO  Valid Epoch:  0 | LOSS: 0.359 | F1: 0.606 | ACC: 0.991 | PRECISION: 0.908 | RECALL: 0.475
+[2020-04-03 18:13:17]: train [line:107] INFO  Train Epoch:  1  (learing rate : 0.0000 )| LOSS: 0.349 | F1: 0.673 | ACC: 0.991 | PRECISION: 0.814 | RECALL: 0.583
+[2020-04-03 18:13:32]: train [line:140] INFO  Valid Epoch:  1 | LOSS: 0.345 | F1: 0.641 | ACC: 0.991 | PRECISION: 0.726 | RECALL: 0.603
+[2020-04-03 18:15:32]: train [line:107] INFO  Train Epoch:  2  (learing rate : 0.0000 )| LOSS: 0.343 | F1: 0.669 | ACC: 0.990 | PRECISION: 0.691 | RECALL: 0.658
+[2020-04-03 18:15:48]: train [line:140] INFO  Valid Epoch:  2 | LOSS: 0.341 | F1: 0.633 | ACC: 0.989 | PRECISION: 0.617 | RECALL: 0.684
+[2020-04-03 18:17:18]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 18:18:58]: train [line:107] INFO  Train Epoch:  0  (learing rate : 0.0000 )| LOSS: 0.511 | F1: 0.003 | ACC: 0.984 | PRECISION: 0.041 | RECALL: 0.002
+[2020-04-03 18:19:15]: train [line:140] INFO  Valid Epoch:  0 | LOSS: 0.371 | F1: 0.126 | ACC: 0.986 | PRECISION: 0.444 | RECALL: 0.075
+[2020-04-03 18:20:48]: train [line:107] INFO  Train Epoch:  1  (learing rate : 0.0000 )| LOSS: 0.350 | F1: 0.637 | ACC: 0.991 | PRECISION: 0.802 | RECALL: 0.556
+[2020-04-03 18:21:03]: train [line:140] INFO  Valid Epoch:  1 | LOSS: 0.344 | F1: 0.640 | ACC: 0.990 | PRECISION: 0.689 | RECALL: 0.628
+[2020-04-03 18:22:57]: train [line:107] INFO  Train Epoch:  2  (learing rate : 0.0000 )| LOSS: 0.342 | F1: 0.673 | ACC: 0.990 | PRECISION: 0.685 | RECALL: 0.671
+[2020-04-03 18:23:14]: train [line:140] INFO  Valid Epoch:  2 | LOSS: 0.340 | F1: 0.641 | ACC: 0.988 | PRECISION: 0.597 | RECALL: 0.722
+[2020-04-03 18:25:36]: train [line:107] INFO  Train Epoch:  3  (learing rate : 0.0000 )| LOSS: 0.335 | F1: 0.730 | ACC: 0.991 | PRECISION: 0.695 | RECALL: 0.778
+[2020-04-03 18:25:53]: train [line:140] INFO  Valid Epoch:  3 | LOSS: 0.332 | F1: 0.744 | ACC: 0.992 | PRECISION: 0.726 | RECALL: 0.790
+[2020-04-03 18:28:04]: train [line:107] INFO  Train Epoch:  4  (learing rate : 0.0000 )| LOSS: 0.331 | F1: 0.786 | ACC: 0.993 | PRECISION: 0.770 | RECALL: 0.809
+[2020-04-03 18:28:19]: train [line:140] INFO  Valid Epoch:  4 | LOSS: 0.330 | F1: 0.774 | ACC: 0.993 | PRECISION: 0.756 | RECALL: 0.819
+[2020-04-03 18:30:16]: train [line:107] INFO  Train Epoch:  5  (learing rate : 0.0000 )| LOSS: 0.330 | F1: 0.803 | ACC: 0.994 | PRECISION: 0.797 | RECALL: 0.817
+[2020-04-03 18:30:31]: train [line:140] INFO  Valid Epoch:  5 | LOSS: 0.331 | F1: 0.732 | ACC: 0.992 | PRECISION: 0.679 | RECALL: 0.827
+[2020-04-03 18:32:48]: train [line:107] INFO  Train Epoch:  6  (learing rate : 0.0000 )| LOSS: 0.329 | F1: 0.814 | ACC: 0.994 | PRECISION: 0.814 | RECALL: 0.820
+[2020-04-03 18:33:04]: train [line:140] INFO  Valid Epoch:  6 | LOSS: 0.329 | F1: 0.813 | ACC: 0.995 | PRECISION: 0.839 | RECALL: 0.810
+[2020-04-03 18:35:23]: train [line:107] INFO  Train Epoch:  7  (learing rate : 0.0000 )| LOSS: 0.329 | F1: 0.824 | ACC: 0.995 | PRECISION: 0.831 | RECALL: 0.822
+[2020-04-03 18:35:38]: train [line:140] INFO  Valid Epoch:  7 | LOSS: 0.329 | F1: 0.803 | ACC: 0.994 | PRECISION: 0.813 | RECALL: 0.816
+[2020-04-03 18:37:42]: train [line:107] INFO  Train Epoch:  8  (learing rate : 0.0000 )| LOSS: 0.329 | F1: 0.823 | ACC: 0.995 | PRECISION: 0.830 | RECALL: 0.822
+[2020-04-03 18:37:57]: train [line:140] INFO  Valid Epoch:  8 | LOSS: 0.329 | F1: 0.807 | ACC: 0.995 | PRECISION: 0.823 | RECALL: 0.813
+[2020-04-03 18:52:49]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 18:54:43]: train [line:107] INFO  Train Epoch:  0  (learing rate : 0.0003 )| LOSS: 0.405 | F1: 0.476 | ACC: 0.920 | PRECISION: 0.519 | RECALL: 0.542
+[2020-04-03 18:55:06]: train [line:140] INFO  Valid Epoch:  0 | LOSS: 0.331 | F1: 0.769 | ACC: 0.993 | PRECISION: 0.765 | RECALL: 0.796
+[2020-04-03 18:56:53]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 18:58:08]: train [line:107] INFO  Train Epoch:  0  (learing rate : 0.0003 )| LOSS: 0.403 | F1: 0.483 | ACC: 0.919 | PRECISION: 0.527 | RECALL: 0.545
+[2020-04-03 18:58:22]: train [line:140] INFO  Valid Epoch:  0 | LOSS: 0.332 | F1: 0.705 | ACC: 0.990 | PRECISION: 0.630 | RECALL: 0.831
+[2020-04-03 19:03:59]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 19:05:11]: train [line:107] INFO  Train Epoch:  0  (learing rate : 0.0003 )| LOSS: 0.402 | F1: 0.436 | ACC: 0.988 | PRECISION: 0.459 | RECALL: 0.436
+[2020-04-03 19:05:33]: train [line:140] INFO  Valid Epoch:  0 | LOSS: 0.332 | F1: 0.692 | ACC: 0.989 | PRECISION: 0.611 | RECALL: 0.827
+[2020-04-03 19:06:54]: train [line:107] INFO  Train Epoch:  1  (learing rate : 0.0003 )| LOSS: 0.330 | F1: 0.807 | ACC: 0.994 | PRECISION: 0.812 | RECALL: 0.811
+[2020-04-03 19:07:07]: train [line:140] INFO  Valid Epoch:  1 | LOSS: 0.329 | F1: 0.836 | ACC: 0.996 | PRECISION: 0.911 | RECALL: 0.791
+[2020-04-03 19:08:32]: train [line:107] INFO  Train Epoch:  2  (learing rate : 0.0002 )| LOSS: 0.329 | F1: 0.822 | ACC: 0.994 | PRECISION: 0.824 | RECALL: 0.827
+[2020-04-03 19:08:46]: train [line:140] INFO  Valid Epoch:  2 | LOSS: 0.328 | F1: 0.830 | ACC: 0.995 | PRECISION: 0.887 | RECALL: 0.801
+[2020-04-03 19:10:08]: train [line:107] INFO  Train Epoch:  3  (learing rate : 0.0002 )| LOSS: 0.328 | F1: 0.835 | ACC: 0.995 | PRECISION: 0.845 | RECALL: 0.831
+[2020-04-03 19:10:22]: train [line:140] INFO  Valid Epoch:  3 | LOSS: 0.327 | F1: 0.821 | ACC: 0.995 | PRECISION: 0.835 | RECALL: 0.829
+[2020-04-03 19:11:56]: train [line:107] INFO  Train Epoch:  4  (learing rate : 0.0002 )| LOSS: 0.327 | F1: 0.839 | ACC: 0.995 | PRECISION: 0.846 | RECALL: 0.838
+[2020-04-03 19:12:10]: train [line:140] INFO  Valid Epoch:  4 | LOSS: 0.328 | F1: 0.826 | ACC: 0.995 | PRECISION: 0.855 | RECALL: 0.819
+[2020-04-03 19:13:52]: train [line:107] INFO  Train Epoch:  5  (learing rate : 0.0002 )| LOSS: 0.327 | F1: 0.842 | ACC: 0.995 | PRECISION: 0.852 | RECALL: 0.838
+[2020-04-03 19:14:06]: train [line:140] INFO  Valid Epoch:  5 | LOSS: 0.328 | F1: 0.810 | ACC: 0.994 | PRECISION: 0.812 | RECALL: 0.831
+[2020-04-03 19:15:51]: train [line:107] INFO  Train Epoch:  6  (learing rate : 0.0002 )| LOSS: 0.327 | F1: 0.850 | ACC: 0.995 | PRECISION: 0.865 | RECALL: 0.841
+[2020-04-03 19:16:06]: train [line:140] INFO  Valid Epoch:  6 | LOSS: 0.327 | F1: 0.808 | ACC: 0.994 | PRECISION: 0.797 | RECALL: 0.846
+[2020-04-03 19:18:02]: train [line:107] INFO  Train Epoch:  7  (learing rate : 0.0001 )| LOSS: 0.327 | F1: 0.847 | ACC: 0.995 | PRECISION: 0.852 | RECALL: 0.847
+[2020-04-03 19:18:16]: train [line:140] INFO  Valid Epoch:  7 | LOSS: 0.327 | F1: 0.826 | ACC: 0.995 | PRECISION: 0.840 | RECALL: 0.835
+[2020-04-03 19:20:04]: train [line:107] INFO  Train Epoch:  8  (learing rate : 0.0001 )| LOSS: 0.326 | F1: 0.857 | ACC: 0.996 | PRECISION: 0.869 | RECALL: 0.850
+[2020-04-03 19:20:19]: train [line:140] INFO  Valid Epoch:  8 | LOSS: 0.327 | F1: 0.838 | ACC: 0.995 | PRECISION: 0.864 | RECALL: 0.832
+[2020-04-03 19:22:10]: train [line:107] INFO  Train Epoch:  9  (learing rate : 0.0001 )| LOSS: 0.326 | F1: 0.859 | ACC: 0.996 | PRECISION: 0.873 | RECALL: 0.849
+[2020-04-03 19:22:24]: train [line:140] INFO  Valid Epoch:  9 | LOSS: 0.327 | F1: 0.846 | ACC: 0.996 | PRECISION: 0.881 | RECALL: 0.833
+[2020-04-03 19:24:17]: train [line:107] INFO  Train Epoch: 10  (learing rate : 0.0001 )| LOSS: 0.326 | F1: 0.867 | ACC: 0.996 | PRECISION: 0.882 | RECALL: 0.857
+[2020-04-03 19:24:31]: train [line:140] INFO  Valid Epoch: 10 | LOSS: 0.327 | F1: 0.833 | ACC: 0.995 | PRECISION: 0.842 | RECALL: 0.848
+[2020-04-03 19:26:25]: train [line:107] INFO  Train Epoch: 11  (learing rate : 0.0001 )| LOSS: 0.326 | F1: 0.870 | ACC: 0.996 | PRECISION: 0.890 | RECALL: 0.854
+[2020-04-03 19:26:40]: train [line:140] INFO  Valid Epoch: 11 | LOSS: 0.327 | F1: 0.843 | ACC: 0.996 | PRECISION: 0.880 | RECALL: 0.829
+[2020-04-03 19:28:29]: train [line:107] INFO  Train Epoch: 12  (learing rate : 0.0000 )| LOSS: 0.325 | F1: 0.873 | ACC: 0.996 | PRECISION: 0.894 | RECALL: 0.857
+[2020-04-03 19:28:44]: train [line:140] INFO  Valid Epoch: 12 | LOSS: 0.326 | F1: 0.849 | ACC: 0.996 | PRECISION: 0.881 | RECALL: 0.837
+[2020-04-03 19:30:40]: train [line:107] INFO  Train Epoch: 13  (learing rate : 0.0000 )| LOSS: 0.325 | F1: 0.881 | ACC: 0.996 | PRECISION: 0.906 | RECALL: 0.861
+[2020-04-03 19:30:55]: train [line:140] INFO  Valid Epoch: 13 | LOSS: 0.327 | F1: 0.837 | ACC: 0.996 | PRECISION: 0.869 | RECALL: 0.827
+[2020-04-03 19:32:47]: train [line:107] INFO  Train Epoch: 14  (learing rate : 0.0000 )| LOSS: 0.325 | F1: 0.881 | ACC: 0.996 | PRECISION: 0.907 | RECALL: 0.860
+[2020-04-03 19:33:02]: train [line:140] INFO  Valid Epoch: 14 | LOSS: 0.327 | F1: 0.842 | ACC: 0.996 | PRECISION: 0.884 | RECALL: 0.824
+[2020-04-03 19:48:01]: train [line:45] INFO  __________________start_training___________________
+[2020-04-03 19:49:29]: train [line:107] INFO  Train Epoch:  0  (learing rate : 0.0003 )| LOSS: 0.401 | F1: 0.473 | ACC: 0.987 | PRECISION: 0.521 | RECALL: 0.461
+[2020-04-03 19:49:53]: train [line:140] INFO  Valid Epoch:  0 | LOSS: 0.332 | F1: 0.739 | ACC: 0.992 | PRECISION: 0.719 | RECALL: 0.787
+[2020-04-03 19:50:55]: train [line:107] INFO  Train Epoch:  1  (learing rate : 0.0003 )| LOSS: 0.330 | F1: 0.810 | ACC: 0.994 | PRECISION: 0.819 | RECALL: 0.811
+[2020-04-03 19:51:07]: train [line:140] INFO  Valid Epoch:  1 | LOSS: 0.329 | F1: 0.801 | ACC: 0.994 | PRECISION: 0.809 | RECALL: 0.816
+[2020-04-03 19:52:31]: train [line:107] INFO  Train Epoch:  2  (learing rate : 0.0002 )| LOSS: 0.328 | F1: 0.828 | ACC: 0.995 | PRECISION: 0.838 | RECALL: 0.827
+[2020-04-03 19:52:45]: train [line:140] INFO  Valid Epoch:  2 | LOSS: 0.328 | F1: 0.807 | ACC: 0.994 | PRECISION: 0.801 | RECALL: 0.834
+[2020-04-03 19:54:08]: train [line:107] INFO  Train Epoch:  3  (learing rate : 0.0002 )| LOSS: 0.328 | F1: 0.833 | ACC: 0.995 | PRECISION: 0.837 | RECALL: 0.836
+[2020-04-03 19:54:23]: train [line:140] INFO  Valid Epoch:  3 | LOSS: 0.328 | F1: 0.833 | ACC: 0.995 | PRECISION: 0.865 | RECALL: 0.822
+[2020-04-03 19:55:48]: train [line:107] INFO  Train Epoch:  4  (learing rate : 0.0002 )| LOSS: 0.327 | F1: 0.839 | ACC: 0.995 | PRECISION: 0.845 | RECALL: 0.838
+[2020-04-03 19:56:03]: train [line:140] INFO  Valid Epoch:  4 | LOSS: 0.328 | F1: 0.780 | ACC: 0.993 | PRECISION: 0.751 | RECALL: 0.837
+[2020-04-03 19:57:46]: train [line:107] INFO  Train Epoch:  5  (learing rate : 0.0002 )| LOSS: 0.327 | F1: 0.846 | ACC: 0.995 | PRECISION: 0.852 | RECALL: 0.844
+[2020-04-03 19:58:00]: train [line:140] INFO  Valid Epoch:  5 | LOSS: 0.329 | F1: 0.783 | ACC: 0.993 | PRECISION: 0.755 | RECALL: 0.840
+[2020-04-03 20:25:47]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_6.bin 
+[2020-04-03 20:33:18]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:33:47]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:34:00]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:34:46]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:36:19]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:36:46]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:37:12]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:37:44]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:38:22]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:40:12]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:40:56]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:41:56]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:42:18]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:42:29]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:42:59]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:43:18]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
+[2020-04-03 20:43:56]: train [line:66] INFO  load pre_trained model from D:\git_of_skydownacai\接单\E3138-350\LSTM\model_saved/pytorch_model_12.bin 
